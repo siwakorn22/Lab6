@@ -1,0 +1,9 @@
+
+public class InstitutionalPlan extends Plan {
+
+	void getRate() {
+		// TODO Auto-generated method stub
+
+	}
+
+}
